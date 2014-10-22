@@ -1,11 +1,11 @@
 Summary:	XCB support libraries
 Name:		xcb-util
-Version:	0.3.9
-Release:	3
+Version:	0.4.0
+Release:	1
 License:	MIT
 Group:		Libraries
 Source0:	http://xcb.freedesktop.org/dist/%{name}-%{version}.tar.bz2
-# Source0-md5:	01dcc7a16d5020530552712710646ea2
+# Source0-md5:	2e97feed81919465a04ccc71e4073313
 URL:		http://xcb.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
